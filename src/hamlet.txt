@@ -1,0 +1,13 @@
+Claudius, King of Denmark.
+Hamlet, Son to the former, and Nephew to the present King.
+Polonius, Lord Chamberlain.
+Horatio, Friend to Hamlet.
+Laertes, Son to Polonius.
+Voltimand, Courtier.
+Cornelius, Courtier.
+Rosencrantz, Courtier.
+Guildenstern, Courtier.
+Osric, Courtier.
+A Gentleman, Courtier.
+A Priest.
+Marcellus, Officer.
